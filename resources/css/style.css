@@ -1,0 +1,30 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: Verdana;
+    font-weight: normal;
+    width: 1000px;
+    margin: auto;
+
+}
+
+#main-container {
+    display: inline-block;
+    text-align:center;
+}
+
+body a {
+   color:aquamarine;
+   text-decoration: underline;
+   font-size: 16px;
+}
+
+p {
+    font-family: verdana;
+    font-size: 21px;
+    color: gray;
+}
+
+footer p {
+    text-align: right;
+}
